@@ -28,6 +28,13 @@ def validate_entry(line: str) -> None:
         raise ValueError("entry must not be only whitespace")
     if "\n" in line or "\r" in line:
         raise ValueError("entry must be a single line")
+    for ch in line:
+        code = ord(ch)
+        if code < 0x20 or code == 0x7F or 0x80 <= code <= 0x9F:
+            raise ValueError(
+                "entry must not contain control characters "
+                "(found U+%04X)" % code
+            )
     line.encode("utf-8")  # raises unless the line is valid UTF-8 text
 
 
