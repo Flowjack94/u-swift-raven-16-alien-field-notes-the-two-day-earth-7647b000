@@ -4,6 +4,8 @@
 ![rank](https://make.fun/badge/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000/Flowjack94/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000/rank.svg)
 ![reward](https://make.fun/badge/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000/Flowjack94/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000/reward.svg)
 
+[View the bounty on make.fun](https://make.fun/bounty/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000)
+
 A make.fun entry for the competition **"Alien Field Notes: The Two Day Earth Review"** — write one original line of plain text, at most 200 characters: a review of planet Earth left by an alien tourist.
 
 ## What the program does
